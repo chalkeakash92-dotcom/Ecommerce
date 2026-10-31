@@ -789,3 +789,4 @@ The project helped me understand how independent services communicate through RE
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
 
 **Thank you for visiting this project!**
+# MicroMarket
